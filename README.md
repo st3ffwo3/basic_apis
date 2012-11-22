@@ -8,7 +8,6 @@ Voraussetzungen:
 * JDK 1.6
 * Eclipse Indigo SR2
 * Checkstyle Plugin
-* JBoss Tools Plugin
 * EGit Plugin
 
 Build Properties:
